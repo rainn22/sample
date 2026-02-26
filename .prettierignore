@@ -57,6 +57,7 @@ public
 tsconfig.json
 postcss.config.mjs
 next.config.ts
+eslint.config.mjs 
 
 # GitHub workflows (if you want to keep them as-is)
 .github
